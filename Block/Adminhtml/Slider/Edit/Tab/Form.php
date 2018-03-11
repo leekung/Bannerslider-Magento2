@@ -450,6 +450,11 @@ class Form extends \Magento\Backend\Block\Widget\Form\Generic implements \Magent
                 'refField' => '1,2,3,4,5',
             ],
             [
+                'fieldName' => ['width'],
+                'fieldNameFrom' => 'style_slide',
+                'refField' => '11',
+            ],
+            [
                 'fieldName' => 'category_ids',
                 'fieldNameFrom' => 'position',
                 'refField' => implode(',', [
@@ -514,7 +519,7 @@ class Form extends \Magento\Backend\Block\Widget\Form\Generic implements \Magent
             [
                 'fieldName' => 'slider_speed',
                 'fieldNameFrom' => 'style_slide',
-                'refField' => '5,10,',
+                'refField' => '5,10,11',
                 'negative' => true,
             ],
         ];

@@ -103,4 +103,17 @@ Finally, coming back to Magento 2 admin to check if Banner Slider extension is i
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/138738707@N02/25081717235/in/dateposted-public/" title="successinstallbannerslider"><img src="https://farm2.staticflickr.com/1458/25081717235_7c98d5a5bd_h.jpg" width="1351" height="400" alt="successinstallbannerslider"></a>
 
 
+# Updates 2018-03-11
 
+After fork following PR are merged *and untested!!*
+* https://github.com/Magestore/Bannerslider-Magento2/pull/78
+* https://github.com/Magestore/Bannerslider-Magento2/pull/90
+* https://github.com/Magestore/Bannerslider-Magento2/pull/93 
+* https://github.com/Magestore/Bannerslider-Magento2/pull/97
+* https://github.com/Magestore/Bannerslider-Magento2/pull/100
+* https://github.com/Magestore/Bannerslider-Magento2/pull/106
+* https://github.com/Magestore/Bannerslider-Magento2/pull/107
+* https://github.com/Magestore/Bannerslider-Magento2/pull/109
+
+Planned to merge:
+* https://github.com/Magestore/Bannerslider-Magento2/pull/76
